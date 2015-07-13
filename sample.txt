@@ -7,3 +7,7 @@ $git init
 $git config --global user.name "name"
 $git config --global user.email "mail address"
 $git config --global color.ui auto
+
+$git branch issue1
+$git branch
+$git checkout issue1
